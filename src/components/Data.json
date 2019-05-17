@@ -1,0 +1,44 @@
+[
+    {
+        "id" : 1,
+        "name" : "Optimus Prime",
+        "phone" : "098787867",
+        "email" : "dang@gmail.com1",
+         "permission" : 1
+    },
+    {
+        "id" : 2,
+        "name" : "Bumblebee",
+        "phone" : "0965652121",
+        "email" : "dang@gmail.com2",
+         "permission" : 2
+    },
+    {
+        "id" : 3,
+        "name" : "Ratchet",
+        "phone" : "09782159753",
+        "email" : "dang@gmail.com3",
+         "permission" : 1
+    },
+    {
+        "id" : 4,
+        "name" : "LockDown",
+        "phone" : "09657134321",
+        "email" : "dang@gmail.com4",
+         "permission" : 2
+    },
+    {
+        "id" : 5,
+        "name" : "IronHide",
+        "phone" : "091212212121",
+        "email" : "dang@gmail.com5",
+         "permission" : 1
+    },
+    {
+        "id" : 6,
+        "name" : "Megatron",
+        "phone" : "09545454545",
+        "email" : "dang@gmail.com6",
+         "permission" : 2
+    }
+]
